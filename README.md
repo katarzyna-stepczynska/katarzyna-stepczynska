@@ -4,7 +4,7 @@
 - 😃  Hi, my name is Katarzyna. I am building my full-stack developer career
 - 🤓 My base coding language is JavaScript, with framework such as React. I am a Node.js big enthusiast
 - 😎 I am currently practiced writing backend JS with has Node.js built MERN applications (MongoDB, Express, React, Node)
-- 🌱 Soon learning Next.js and Three.js
+- 🌱 Soon learning Nest.js
 - 🦻 I am a deaf person but I can understand and talk like a normal person
 - 📐 I am an architectural engineer and I have a building license
 - ⭐ Fun fact about me: I am a master at selling some stuffs. I find them in the garbages during walks, I renovate and then sell them
